@@ -1,0 +1,47 @@
+{
+"basicdetails":{
+		           "image":"images.jpg",
+	               "name":"niveditha sree",
+		           "email":"nivedithavemuri975@gmail.com",
+	           	   "phone":"7095854076",
+		           "address":"7-17-119,srinagar 3rd lane,guntur"
+            	},
+"education":[
+                 {
+	               "course":"B.tech(c,s,e)",
+ 	               "college":"vignan nirula institue of technology",
+ 	               "percentage":"70%"
+                 },
+                 {
+                    "course":"intermediate(m,p,c)",
+ 	                "college":"sri chaitanya junior college",
+ 	                "percentage":"88.5%"
+                 },
+                 {
+                    "course":"ssc",
+ 	                "college":"kanna english medium school",
+ 	                "percentage":"90%"
+                 }
+           ],
+"Skills":[
+    {
+        "name":"operating systems",
+        "value":"Windows,Linux,MAC"
+    },
+    {
+        "name":"Programming Languages",
+        "value":"C,C++,Java,Python"
+    }
+],
+"carrier":{
+    "ca":"i am using my skills to develop the organisation and i obey the organisation rules and take my responsibilities end of my working days"
+},
+"Achievements":[
+                    "i got first prize in chess compitition in my college",
+                    "i got second prize in tech summit in mumbai",
+                    "i got first prize in powerpoint presentation."
+               ],
+"Description":{
+      "des":"i am willing to know and learn about progressive web applications"
+}
+}
